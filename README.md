@@ -23,7 +23,7 @@ In the "webupg" binary, because of the lack of parameter verification, attackers
 ![image](https://github.com/tgp-top/DAP-1360/blob/2d09c23efafd8d3199b0a84d5b159f3cdbd26638/%E5%9B%BE%E7%89%87/3.png)
 
 `Burpsuite intercept`
-![image](https://github.com/tgp-top/DAP-1360/blob/2d09c23efafd8d3199b0a84d5b159f3cdbd26638/%E5%9B%BE%E7%89%87/4.png)
+![image](https://github.com/tgp-top/DAP-1360/blob/220154515d7b765ecc8daffd6c990ba45df4735f/%E5%9B%BE%E7%89%87/4.png)
 
 ## POC
 [POC](https://github.com/tgp-top/DAP-1360/blob/b49ab592d240de04397e9c3389f328cf6a27b6be/dap-1360.py)
