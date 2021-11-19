@@ -13,6 +13,9 @@ DAP-1360(F1): <=v6.10
 In the "webupg" binary, because of the lack of parameter verification, attackers can use "file" parameters to execute arbitrary system commands after obtaining authorization.
 
 #### Vulnerability trigger function
+![image](https://github.com/tgp-top/DAP-1360/blob/4f10977bb7356d1393fefcba24ca438be95248b2/%E5%9B%BE%E7%89%87/5.png)
+
+
 `UPGCGI_CreateDir`
 ![image](https://github.com/tgp-top/DAP-1360/blob/2d09c23efafd8d3199b0a84d5b159f3cdbd26638/%E5%9B%BE%E7%89%87/1.png)
 
